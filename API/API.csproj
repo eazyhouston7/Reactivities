@@ -1,3 +1,4 @@
+<!-- Use "dotnet watch run" to launch -->
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>

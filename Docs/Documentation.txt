@@ -1,0 +1,23 @@
+Solution Documentation/Notes/Summary
+
+- API 
+    - Controllers
+        * Controllers help service incoming requests to the API.
+    - Properties
+        * launchsettings.json
+    - reactivities.db
+        * Database with activities
+- Application
+    - Activities
+        * ??? Mediators between controllers and Data Store ??? 
+- client-app
+    - src
+        * Contains Typescript, css, etc to create page UI/view.
+- Docs
+    * Documentation.txt - Useful information for files within solution.
+- Domain
+- Persistence
+    - Migrations
+        * DB Migrations
+    - Seed.cs
+        * Original data to seed the DB

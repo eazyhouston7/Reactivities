@@ -1,3 +1,5 @@
+// Use "npm start" to run in browser
+
 import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
